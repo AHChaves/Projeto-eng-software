@@ -1,6 +1,6 @@
 # Projeto-eng-software
 
-/
+
 ├── README.md                  
 ├── docs/
 │   ├── requisitos.md          
